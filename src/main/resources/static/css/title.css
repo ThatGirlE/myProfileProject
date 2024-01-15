@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+	margin:0;
+	padding:0;
+}
+
+
+span.title01{
+	font-size: 70px;
+	color:#88AB8E;
+	font-family: Monaco;
+	font-weight:bold;
+}
+
+span.title02{
+	font-size:20px;
+	color:#AFC8AD;
+	font-family: Monaco;
+	
+}
+span.title03{
+	font-size:70px;
+	color:#88AB8E;
+	font-family: Monaco;
+	
+}
+span.title04{
+	font-size:40px;
+	color:#AFC8AD;
+	font-family: Monaco;
+	
+}
+td.skillbox{
+	background-color:#EEE7DA;
+	
+}
+td.imgbox{
+	background-color: #F2F1EB;
+	
+}

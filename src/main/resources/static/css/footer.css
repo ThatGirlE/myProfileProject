@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+tr.footerline{
+	background-color:#AFC8AD;
+	height: 35px;
+}
+span.footertext{
+	font-size:20px;
+	font-family:Arial;
+	color: #F2F1EB;
+}
